@@ -1,0 +1,10 @@
+#path: /content/drive/MyDrive/Project/ # dataset root dir
+train: C:\Users\jagdi\OneDrive\Desktop\Invoice_Project\train\images
+val: C:\Users\jagdi\OneDrive\Desktop\Invoice_Project\valid\images
+test: C:\Users\jagdi\OneDrive\Desktop\Invoice_Project\test\images
+
+#number of classes
+nc: 16
+
+# class names
+names: ['Discount_Percentage', 'Due_Date', 'Email_Client', 'Name_Client', 'Products', 'Remise', 'Subtotal', 'Tax', 'Tax_Precentage', 'Tel_Client', 'billing address', 'header', 'invoice date', 'invoice number', 'shipping address', 'total']
